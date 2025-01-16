@@ -1,5 +1,4 @@
-{
-    "cards": [
+[
       {
         "id": "card1",
         "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/5e5948433f44fd4044f9a30b_kids_english_animals_turtle.png?raw=true",
@@ -31,4 +30,3 @@
         "alt": "Happy Dolphin"
       }
     ]
-  }
