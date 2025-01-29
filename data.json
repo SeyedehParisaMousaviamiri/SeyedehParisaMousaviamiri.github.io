@@ -1,17 +1,17 @@
 [
       {
         "id": "card1",
-        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/5e5948433f44fd4044f9a30b_kids_english_animals_turtle.png?raw=true",
+        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyTurtle.png?raw=true",
         "alt": "Happy Turtle"
       },
       {
         "id": "card2",
-        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/d5917a615428834d0e00554dad14b846.png?raw=true",
+        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyElephant.png?raw=true",
         "alt": "Happy Elephant"
       },
       {
         "id": "card3",
-        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/819-8194770_clip-art-library-download-animal-illustrations-drawing-transparent.png?raw=true",
+        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyRaccoon.png?raw=true",
         "alt": "Happy Raccoon"
       },
       {
@@ -21,12 +21,12 @@
       },
       {
         "id": "card5",
-        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/360_F_879506485_qhYJc7sZOrBSvZC3gdNfZF54SvFfSh4v.jpg?raw=true",
+        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyCat.jpg?raw=true",
         "alt": "Happy Kitty"
       },
       {
         "id": "card6",
-        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/vector-blue-dolphin-icon-under-600nw-2277946019.webp?raw=true",
+        "imgSrc": "https://raw.githubusercontent.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/refs/heads/main/Img/HappyDolphin.webp",
         "alt": "Happy Dolphin"
       }
     ]
