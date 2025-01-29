@@ -28,13 +28,13 @@
         "id": "card6",
         "imgSrc": "https://raw.githubusercontent.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/refs/heads/main/Img/HappyDolphin.webp",
         "alt": "Happy Dolphin"
-      }
-  {
+      },
+      {
         "id": "card7",
         "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyTurtle.png?raw=true",
         "alt": "Happy Turtle"
       },
-  {
+      {
         "id": "card8",
         "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyTurtle.png?raw=true",
         "alt": "Happy Turtle"
