@@ -26,8 +26,8 @@
   },
   {
     "id": "card6",
-    "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/5691632d-d095-4416-b5a5-817ac20483d8.jpg?raw=true",
-    "alt": "Happy Dolphin"
+    "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/101141a1-dd4c-41ed-bbc4-c71faac5b365.jpg?raw=true",
+    "alt": "Happy tiger"
   },
   {
     "id": "card7",
@@ -41,12 +41,12 @@
   },
     {
         "id": "card9",
-        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyTurtle.png?raw=true",
-        "alt": "Happy Turtle"
+        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/cfcb2162-647e-41bf-b2bd-a14d8abf858d.jpg?raw=true",
+        "alt": "Happy zebra"
       },
       {
         "id": "card10",
-        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyTurtle.png?raw=true",
-        "alt": "Happy Turtle"
+        "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/1cdc19b3-8b86-421f-a509-6ae63c4a49a0.jpg?raw=true",
+        "alt": "Happy tiger"
       }
   ]
