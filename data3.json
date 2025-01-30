@@ -29,16 +29,16 @@
     "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/5691632d-d095-4416-b5a5-817ac20483d8.jpg?raw=true",
     "alt": "Happy Dolphin"
   },
-    {
-      "id": "card7",
-      "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyTurtle.png?raw=true",
-      "alt": "Happy Turtle"
-    },
-    {
-      "id": "card8",
-      "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyTurtle.png?raw=true",
-      "alt": "Happy Turtle"
-    },
+  {
+    "id": "card7",
+    "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/bf895fc8-3e27-40d5-a585-ef1b2caa04b4.jpg?raw=true",
+    "alt": "Happy dog"
+  },
+  {
+    "id": "card8",
+    "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/a99769c7-672a-4901-a306-12957a978601.jpg?raw=true",
+    "alt": "Happy donkey"
+  },
     {
         "id": "card9",
         "imgSrc": "https://github.com/SeyedehParisaMousaviamiri/HYF-MemoryGame/blob/main/Img/HappyTurtle.png?raw=true",
